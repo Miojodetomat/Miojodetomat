@@ -1,4 +1,4 @@
-<img src="https://static1.conquistesuavida.com.br/articles/7/10/99/7/@/29507-o-lamen-ou-ramen-e-uma-otima-pedida-po-640x400-2.jpg" align="right" height=180px width=220px>
+<img src="https://media.tenor.com/hr0Q5mWleS4AAAAd/haruka-pokemon.gif" align="right" height=240px width=290px>
 
 ### Hi there, I'm Miojodetomat 😜
 
