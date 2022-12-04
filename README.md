@@ -37,8 +37,7 @@
 [<h4>Visitor's count </h4>](https://dev.to/ryanlanciaux/visitor-count-on-your-github-profile-with-one-line-of-markdown-593g)
 <img src="https://profile-counter.glitch.me/Miojodetomat/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
   
-<img src="https://i.pinimg.com/originals/de/d8/3a/ded83a4133f0895caa56f73603680806.gif" alt="A funny Rotom gif" align="left">
-<img src="https://media.tenor.com/m3Gl-AOxRx8AAAAM/pokemon-pikachu.gif" alt="A goodbye gif" align="right" height=295px width=460px>
+<img src="https://i.pinimg.com/originals/de/d8/3a/ded83a4133f0895caa56f73603680806.gif" alt="A funny Rotom gif">
 
 </div>
 <!---
