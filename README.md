@@ -6,7 +6,7 @@
 - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
 - 🎶 I love music!
 - 🐱‍👤 Games are my greatest hobby
-- 🔭 I'm a curious soul. Love science! The reason of my existence.
+- 🔭 I'm a curious soul. Love science!
 
 ## Programming Languages and Tools 🚀
 
