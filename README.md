@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/hr0Q5mWleS4AAAAd/haruka-pokemon.gif" alt="May eating tons of lamen. (I love may!)" align="right" height=240px width=290px>
 
-### Hi there, I'm Miojodetomat 😜
+### Hi there, I'm Hugo 😜
 
 - 🌎 I’m currently learning C#, C++, Java, JavaScript, Node.JS, HTML5/CSS3, SQL Server.
 - 📖 Studiyng Systems Development at Colégio Técnico de Campinas - Unicamp
